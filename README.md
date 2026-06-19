@@ -6,7 +6,7 @@ This directory contains our Phase 1 data science pipeline. Our approach focused 
 For a detailed breakdown of our methodology, please refer to `approach.txt`.
 
 ## Folder Structure
-
+'''text
 GRIDLOCK/
 │
 ├── approach.txt             # Detailed methodology and project overview
@@ -38,6 +38,7 @@ GRIDLOCK/
 │
 └── submissions/             # Final competition-ready output
     └── submission_ensemble.csv
+'''
 
 ## Installation & Execution
 
